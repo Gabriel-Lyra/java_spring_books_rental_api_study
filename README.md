@@ -3,6 +3,7 @@
 - [X] Books CRUD
 - [ ] Customer CRUD
 - [ ] Business logic
+- [ ] Tests
 - [ ] Robust Error Handling
 - [ ] Logging with slf4j.Logger
 - [ ] Refactor HTTP Responses
